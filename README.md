@@ -1,4 +1,4 @@
-![Screenshot 2024-07-07 135104](https://github.com/naufaljct48/AirdropKu/assets/30202760/97e345d6-44d9-4995-b3df-aa75a137c831)# AirdropKu
+## AirdropKu
 
 AirdropKu adalah aplikasi untuk mengelola reminder airdrop. Dibangun dengan CodeIgniter 3 dan menggunakan Circl Admin Bootstrap 5 untuk antarmuka pengguna.
 
