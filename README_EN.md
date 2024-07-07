@@ -32,6 +32,16 @@ To run this application, ensure you have set up a PHP development environment (l
 
 If you wish to contribute to this project, please create a pull request with your proposed changes.
 
+## Screenshot
+![Screenshot 2024-07-07 135104](https://github.com/naufaljct48/AirdropKu/assets/30202760/9b7ff3df-2538-427d-8260-b8b0c738bc2f)
+![Screenshot 2024-07-07 135116](https://github.com/naufaljct48/AirdropKu/assets/30202760/6e5999d3-adff-4465-b078-0b329b024938)
+![Screenshot 2024-07-07 135130](https://github.com/naufaljct48/AirdropKu/assets/30202760/bfb6288a-6046-46c4-a43e-8c2edbe1ca85)
+![Screenshot 2024-07-07 135139](https://github.com/naufaljct48/AirdropKu/assets/30202760/b2f17f56-8aa1-4f5d-8359-5cd4e060c652)
+![Screenshot 2024-07-07 135148](https://github.com/naufaljct48/AirdropKu/assets/30202760/68cadd84-d0cb-4919-8693-36f3e6cf548b)
+![Screenshot 2024-07-07 135204](https://github.com/naufaljct48/AirdropKu/assets/30202760/39461c7c-2eab-4c30-9894-15fd27bab0c0)
+![Screenshot 2024-07-07 135213](https://github.com/naufaljct48/AirdropKu/assets/30202760/5138ef18-6593-4c62-8929-f537bb7138a0)
+![Screenshot 2024-07-07 135226](https://github.com/naufaljct48/AirdropKu/assets/30202760/63b049cb-921c-4598-881f-c5f53ee88e77)
+
 ## License
 
 Licensed under the [MIT License](https://opensource.org/licenses/MIT).
